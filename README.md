@@ -1,4 +1,4 @@
-#A 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit
+# A 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit
 
 <p align="justify">This repositiry is intended to document the learning outcomes and experience of A 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit. The first online meeting took place on 16th February, 2024, @ 6PM to 7PM.</p>
 
