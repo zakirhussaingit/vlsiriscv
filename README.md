@@ -1,6 +1,6 @@
 # A 4-week VSDSquadron Mini Internship on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit
 
-<p align="justify">This repositiry is intended to document the learning outcomes and experience of a 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit. The first online meeting took place on 16th February, 2024, @ 6PM to 7PM.</p>
+<p align="justify">This repositiry is intended to document the learning outcomes and experience of a 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit. The first online meeting took place on <b>16th February, 2024, @ 6PM to 7PM.</b></p>
 
 In this meeting the following tasks been assigned.
 1. Create GitHub repo. Windows OS, 1TB HDD, 16GB RAM. 
