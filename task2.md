@@ -5,7 +5,7 @@ These instructions are designed to be simple, efficient, and easily extensible, 
 The instruction set is organized into a base integer instruction set and a set of optional extensions, which provide specialized functionality for specific applications or domains.</p>
 
 <details>
-<summary><b>Base Integer Instruction Set</b></summary></summary>
+<summary><b>Base Integer Instruction Set</b></summary>
 <br>
 <p align="justify">The base integer instruction set, also known as the "RV32I" or "RV64I" instruction set, depending on the address space size, provides the core functionality required for general-purpose computing. It includes instructions for <ol><li>arithmetic</li><li>logical</li><li>control operations</li><li>memory access and manipulation</li></ol>. The base integer instruction set is designed to be minimal and efficient, adhering to the principles of reduced instruction set computing (RISC).</p>
 </details>
@@ -54,6 +54,6 @@ The instruction set is organized into a base integer instruction set and a set o
 
 <details>
 <summary><b>Instruction code format </b></summary>
+	![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/b6ada397-0624-49a5-8479-804b7de81741)
 </details>
-![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/b6ada397-0624-49a5-8479-804b7de81741)
 
