@@ -30,7 +30,7 @@ The instruction set is organized into a base integer instruction set and a set o
 <p align="justify">The RISC-V register file is a key component of the RISC-V architecture, providing a set of storage locations for holding data during the execution of instructions. The register file is organized into a set of integer registers and floating-point registers, depending on the extensions implemented in the processor. Registers play a crucial role in the RISC-V architecture, as they enable fast access to data and help improve the performance and efficiency of the processor.</p>
 
 <details>
-<summary><b>Integer Registers</b></summary>
+    <summary><b>Integer Registers</b></summary>
   <br>
 <p align="justify">The integer registers in the RISC-V architecture are used for storing and manipulating integer values during the execution of instructions. You can perform operations such as addition, subtraction, multiplication, division, bit manipulation, and comparisons using these registers. There are 32 integer registers in the RV32I base integer instruction set, and 32 or 64 integer registers in the RV64I base integer instruction set, depending on the address space size. Each register is 32 bits wide in the RV32I ISA and 64 bits wide in the RV64I ISA.</p>
 
