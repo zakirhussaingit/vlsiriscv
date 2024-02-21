@@ -46,7 +46,7 @@ The instruction set is organized into a base integer instruction set and a set o
   - a0-a7 (x10-x17): Argument registers, used for passing function arguments.
   - s0-s11 (x8, x9, x18-x27): Saved registers, used for preserving values across function calls.
   - t3-t6 (x28-x31): Additional temporary registers.
-<p>By providing a set of integer registers with a well-defined naming convention, the RISC-V architecture enables efficient execution of integer operations and simplifies the development of compilers and other software tools that generate code for the processor.</p></summary>
+<p>By providing a set of integer registers with a well-defined naming convention, the RISC-V architecture enables efficient execution of integer operations and simplifies the development of compilers and other software tools that generate code for the processor.</p>
 
   
 </details>
