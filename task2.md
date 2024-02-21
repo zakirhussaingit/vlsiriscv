@@ -51,3 +51,10 @@ The instruction set is organized into a base integer instruction set and a set o
 </details>
 
  </details>
+
+<details>
+<summary><b>Instruction code format </b></summary>
+<br>
+ ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/0e511c81-e401-4e0a-869d-57748aa66ea0)
+
+</details>
