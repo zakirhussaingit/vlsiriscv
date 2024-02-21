@@ -38,14 +38,14 @@ The instruction set is organized into a base integer instruction set and a set o
 
 - x0: This register is hardwired to the value 0 and cannot be modified.
 - x1-x31: These registers are general-purpose registers, with some having specific names to indicate their intended usage, such as:
--- ra (x1): Return address register, used for storing the return address in function calls.
--- sp (x2): Stack pointer register, used for managing the stack.
--- gp (x3): Global pointer register, used for accessing global data.
--- tp (x4): Thread pointer register, used for thread-local storage.
--- t0-t6 (x5-x11): Temporary registers, used for holding intermediate values during calculations.
--- a0-a7 (x10-x17): Argument registers, used for passing function arguments.
--- s0-s11 (x8, x9, x18-x27): Saved registers, used for preserving values across function calls.
--- t3-t6 (x28-x31): Additional temporary registers.
+  -- ra (x1): Return address register, used for storing the return address in function calls.
+  -- sp (x2): Stack pointer register, used for managing the stack.
+  -- gp (x3): Global pointer register, used for accessing global data.
+  -- tp (x4): Thread pointer register, used for thread-local storage.
+  -- t0-t6 (x5-x11): Temporary registers, used for holding intermediate values during calculations.
+  -- a0-a7 (x10-x17): Argument registers, used for passing function arguments.
+  -- s0-s11 (x8, x9, x18-x27): Saved registers, used for preserving values across function calls.
+  -- t3-t6 (x28-x31): Additional temporary registers.
 <p>By providing a set of integer registers with a well-defined naming convention, the RISC-V architecture enables efficient execution of integer operations and simplifies the development of compilers and other software tools that generate code for the processor.</p></summary>
 
   
