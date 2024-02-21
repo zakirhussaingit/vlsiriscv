@@ -2,7 +2,7 @@
 
 <p align="justify">This repository is intended to document the learning outcomes and experience of a 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit.</p>
 
-<details open>
+<details>
 <summary>Learning task-1</summary>
 <br>
 
@@ -13,7 +13,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>Learning task-2</summary>
 <br>
 
