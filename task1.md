@@ -4,12 +4,12 @@
 These instructions are designed to be simple, efficient, and easily extensible, allowing for a high degree of customization and optimization.
 The instruction set is organized into a base integer instruction set and a set of optional extensions, which provide specialized functionality for specific applications or domains.</p>
 
-<details open>
+<details>
 <summary><b>Base Integer Instruction Set</b></summary></summary>
 <br>
 <p align="justify">The base integer instruction set, also known as the "RV32I" or "RV64I" instruction set, depending on the address space size, provides the core functionality required for general-purpose computing. It includes instructions for <ol><li>arithmetic</li><li>logical and</li><li>control operations as well as</li><li>memory access and manipulation</li></ol>. The base integer instruction set is designed to be minimal and efficient, adhering to the principles of reduced instruction set computing (RISC).</p>
 </details>
-<details open>
+<details>
   <summary><b>The instruction formats and their six types</b></summary>
   <br>
 <p align="justify">RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:</p>
@@ -24,10 +24,9 @@ The instruction set is organized into a base integer instruction set and a set o
  [For more information read The RISC-V Instruction Set Manual](https://drive.google.com/file/d/1p2O-sJGlOw3o57nqzbgWeEMJ22KzKdrN/view?usp=sharing)
 </details>
 
- <details open>
+ <details>
 <summary><b>RISC-V Register File</b></summary>
    <br>
 <p align="justify">The RISC-V register file is a key component of the RISC-V architecture, providing a set of storage locations for holding data during the execution of instructions. The register file is organized into a set of integer registers and floating-point registers, depending on the extensions implemented in the processor. Registers play a crucial role in the RISC-V architecture, as they enable fast access to data and help improve the performance and efficiency of the processor.</p>
 
-   
  </details>
