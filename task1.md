@@ -48,9 +48,6 @@ The instruction set is organized into a base integer instruction set and a set o
   - t3-t6 (x28-x31): Additional temporary registers.
 <p>By providing a set of integer registers with a well-defined naming convention, the RISC-V architecture enables efficient execution of integer operations and simplifies the development of compilers and other software tools that generate code for the processor.</p>
 
-  
 </details>
-
-
 
  </details>
