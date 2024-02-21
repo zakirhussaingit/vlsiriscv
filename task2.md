@@ -55,6 +55,6 @@ The instruction set is organized into a base integer instruction set and a set o
 <details>
 <summary><b>Instruction code format </b></summary>
 	<br>
-	![image Instruction format ](https://github.com/zakirhussaingit/vlsiriscv/blob/main/images/instruction%20code%20formats.png)
+	![Alt](https://github.com/zakirhussaingit/vlsiriscv/blob/main/images/instruction%20code%20formats.png)
 </details>
 
