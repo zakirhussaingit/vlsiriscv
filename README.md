@@ -1,4 +1,4 @@
-# A 4-week VSDSquadron Mini Internship on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit
+# <p align="justify">A 4-week VSDSquadron Mini Internship on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit</p>
 
 <p align="justify">This repository is intended to document the learning outcomes and experience of a 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit.</p>
 
