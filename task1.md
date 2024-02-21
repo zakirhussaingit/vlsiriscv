@@ -23,4 +23,10 @@ The instruction set is organized into a base integer instruction set and a set o
  
  [For more information read The RISC-V Instruction Set Manual](https://drive.google.com/file/d/1p2O-sJGlOw3o57nqzbgWeEMJ22KzKdrN/view?usp=sharing)
 </details>
- 
+
+ <details open>
+<summary><b>RISC-V Register File</b></summary>
+<p align="justify">The RISC-V register file is a key component of the RISC-V architecture, providing a set of storage locations for holding data during the execution of instructions. The register file is organized into a set of integer registers and floating-point registers, depending on the extensions implemented in the processor. Registers play a crucial role in the RISC-V architecture, as they enable fast access to data and help improve the performance and efficiency of the processor.</p>
+
+   
+ </details>
