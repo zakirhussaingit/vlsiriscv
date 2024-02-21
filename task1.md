@@ -19,4 +19,6 @@ The instruction set is organized into a base integer instruction set and a set o
 <li><b>B-type instructions:</b></li> Used for conditional branch operations, which transfer control to a different instruction based on a condition. They include two register operands and a 12-bit immediate value for the branch target address. Eg:- beq (compare and label)
 <li><b>U-type instructions:</b></li> Used for operations with a 20-bit immediate value, such as loading a 20-bit constant into a register or setting the upper 20 bits of a register. Eg:- lui (load upper immediate value)
 <li><b>J-type instructions:</b></li> Used for unconditional jump operations, which transfer control to a different instruction unconditionally. They include one register operand and a 20-bit immediate value for the jump target address. Eg:- J (jump)</ul>
+  <br>
+  [For more information read The RISC-V Instruction Set Manual](https://drive.google.com/file/d/1p2O-sJGlOw3o57nqzbgWeEMJ22KzKdrN/view?usp=sharing)
 </details>
