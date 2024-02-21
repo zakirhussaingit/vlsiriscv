@@ -14,7 +14,7 @@
 </details>
 
 <details open>
-<summary>Laerning task-2</summary>
+<summary>Learning task-2</summary>
 <br>
 
 - The second online meeting took place on <b>20<sup>th</sup> February, 2024, @ 6PM to 7PM.</b>
