@@ -5,12 +5,12 @@ These instructions are designed to be simple, efficient, and easily extensible, 
 The instruction set is organized into a base integer instruction set and a set of optional extensions, which provide specialized functionality for specific applications or domains.</p>
 
 <details open>
-<summary>Base Integer Instruction Set</summary>
+<summary><b>Base Integer Instruction Set</b></summary></summary>
 <br>
 <p align="justify">The base integer instruction set, also known as the "RV32I" or "RV64I" instruction set, depending on the address space size, provides the core functionality required for general-purpose computing. It includes instructions for <ol><li>arithmetic</li><li>logical and</li><li>control operations as well as</li><li>memory access and manipulation</li></ol>. The base integer instruction set is designed to be minimal and efficient, adhering to the principles of reduced instruction set computing (RISC).</p>
 </details>
 <details open>
-  <summary>The instruction formats and their six types</summary>
+  <summary><b>The instruction formats and their six types</b></summary>
   <br>
 <p align="justify">RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:</p>
 <ul><li><b>R-type instructions:</b></li> Used for register-to-register operations, such as arithmetic and logical operations. They include three register operands: two source registers and one destination register. Eg:- add (Add 2 registers and store results in another)
