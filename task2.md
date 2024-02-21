@@ -7,7 +7,7 @@ The instruction set is organized into a base integer instruction set and a set o
 <details>
 <summary><b>Base Integer Instruction Set</b></summary></summary>
 <br>
-<p align="justify">The base integer instruction set, also known as the "RV32I" or "RV64I" instruction set, depending on the address space size, provides the core functionality required for general-purpose computing. It includes instructions for <ol><li>arithmetic</li><li>logical and</li><li>control operations as well as</li><li>memory access and manipulation</li></ol>. The base integer instruction set is designed to be minimal and efficient, adhering to the principles of reduced instruction set computing (RISC).</p>
+<p align="justify">The base integer instruction set, also known as the "RV32I" or "RV64I" instruction set, depending on the address space size, provides the core functionality required for general-purpose computing. It includes instructions for <ol><li>arithmetic</li><li>logical</li><li>control operations</li><li>memory access and manipulation</li></ol>. The base integer instruction set is designed to be minimal and efficient, adhering to the principles of reduced instruction set computing (RISC).</p>
 </details>
 <details>
   <summary><b>The instruction formats and their six types</b></summary>
