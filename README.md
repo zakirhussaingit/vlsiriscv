@@ -20,7 +20,7 @@
 - The second online meeting took place on <b>20<sup>th</sup> February, 2024, @ 6PM to 7PM.</b>
 <br/>  In this meeting the following tasks have been assigned.
 1. List the types of instructions in RISC V
-2. List the word size of the above-listed instructions.
+2. List the word size of the above-listed instructions.<br>
 [Click me to know the details of the task-2](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task1.md) 
 
 </details>
