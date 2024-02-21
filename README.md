@@ -1,13 +1,25 @@
 # A 4-week VSDSquadron Mini Internship on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit
 
-<p align="justify">This repositiry is intended to document the learning outcomes and experience of a 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit.</p>
+<p align="justify">This repository is intended to document the learning outcomes and experience of a 4-week workshop on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit.</p>
+
+<details open>
+<summary>Learning task-1</summary>
+<br>
 
 - The first online meeting took place on <b>16<sup>th</sup> February, 2024, @ 6PM to 7PM.</b>
 <br/> In this meeting the following tasks have been assigned.
-1. Create GitHub repo. Windows OS, 1TB HDD, 16GB RAM. 
+1. Create a GitHub repo. Windows OS, 1TB HDD, 16GB RAM. 
 2. Next Task - Allocate 8GB RAM, 100GB HDD for Oracle Virtual Machine and install [RISC-V GNU Toolchain first](https://github.com/riscv-collab/riscv-gnu-toolchain), then [install Yosys, iverilog, gtkwave](https://docs.google.com/document/d/1Z5t7xWpG_gdppLk_ZVfgKVr5hrQZISlkdwCWSjYg7p0/edit).
 
-- The first online meeting took place on <b>20<sup>th</sup> February, 2024, @ 6PM to 7PM.</b>
+</details>
+
+<details open>
+<summary>Laerning task-2</summary>
+<br>
+
+- The second online meeting took place on <b>20<sup>th</sup> February, 2024, @ 6PM to 7PM.</b>
 <br/>  In this meeting the following tasks have been assigned.
 1. List the types of instructions in RISC V
-2. List the word size of the above-listed instructions. 
+2. List the word size of the above-listed instructions.
+
+</details>
