@@ -9,5 +9,5 @@
 
 - The first online meeting took place on <b>20<sup>th</sup> February, 2024, @ 6PM to 7PM.</b>
 <br/>  In this meeting the following tasks have been assigned.
-1. List the Instruction types in RISC V
-2. List the word size of the above-listed instruction. 
+1. List the types of instructions in RISC V
+2. List the word size of the above-listed instructions. 
