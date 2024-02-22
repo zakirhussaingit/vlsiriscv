@@ -58,5 +58,12 @@ The instruction set is organized into a base integer instruction set and a set o
 	<img src="https://github.com/zakirhussaingit/vlsiriscv/blob/main/images/instruction%20code%20formats.png" alt="Instruction code format"/>
 <img src="https://github.com/zakirhussaingit/vlsiriscv/blob/main/images/instuctionFormat2.JPG" alt="Instruction code format2"/>
 	<p align="justify">The B format is a variation of S and is sometimes referred to as SB. Similarly, the J format is a variation of U and is sometimes referred to as UJ.</p>
+	<p align="justify">There are a few immediate observations we can make about these core formats:</p>
+
+<ol><li>They are all 32 bits ([31:0]) wide.</li>
+<li>They all reserve the first 7 bits ([6:0]) for the opcode.</li>
+<li>If two formats support the same operand, that operand is always in the same location in the instruction (e.g. R, I, S, and B formats all have an rs1 operand and it is always encoded in bits [19:15]).</li>
+<li>Each involves at least one register operand (rd / rs1/ rs2).</li>
+<li>All register operands are the same number of bits (5).</li></ol>
 </details>
 
