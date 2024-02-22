@@ -57,5 +57,6 @@ The instruction set is organized into a base integer instruction set and a set o
 	<br>
 	<img src="https://github.com/zakirhussaingit/vlsiriscv/blob/main/images/instruction%20code%20formats.png" alt="Instruction code format"/>
 <img src="https://github.com/zakirhussaingit/vlsiriscv/blob/main/images/instuctionFormat2.JPG" alt="Instruction code format2"/>
+	<p align="justify">The B format is a variation of S and is sometimes referred to as SB. Similarly, the J format is a variation of U and is sometimes referred to as UJ.</p>
 </details>
 
