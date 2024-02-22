@@ -12,7 +12,7 @@ The instruction set is organized into a base integer instruction set and a set o
 <details>
   <summary><b>The instruction formats and their six types</b></summary>
   <br>
-<p align="justify">RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:</p>
+<p align="justify">The binary encoding of an operation is referred to as its instruction format. RISC-V has six core instruction formats: RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:</p>
 <ul><li><b>R-type instructions:</b></li> Used for register-to-register operations, such as arithmetic and logical operations. They include three register operands: two source registers and one destination register. Eg:- add (Add 2 registers and store results in another)
 <li><b>I-type instructions:</b></li> Used for immediate operations, such as arithmetic and logical operations with an immediate value. They include two register operands and a 12-bit immediate value. Eg:- li (Load immediate value)
 <li><b>S-type instructions:</b></li> Used for store operations, which store data from a register to memory. They include two register operands and a 12-bit immediate value for the memory address offset. Eg:- sw (store the value in register)
