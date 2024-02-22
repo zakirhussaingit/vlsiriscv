@@ -67,6 +67,7 @@ The instruction set is organized into a base integer instruction set and a set o
 <li>All register operands are the same number of bits (5).</li></ol>
 
 <p>Each format is designed to accommodate certain types of instructions. While two types of instructions that fall under the same format may seem unrelated, we will see later on that they frequently will be implemented using the same underlying operations in the Arithmetic Logic Unit (ALU).</p>
+
 - R: register-register ALU instructions
 - I: ALU immediate instructions, load instructions
 - S / B: store instructions, comparison and branch instructions
