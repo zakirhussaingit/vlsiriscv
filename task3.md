@@ -24,4 +24,9 @@ int main() {
 
 ![Screenshot from 2024-02-24 19-57-41](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/503308a8-7771-4d8e-99b8-4fc66f5cbd47)
 <p align="centre">fig. 2</p>
+<br>3. To compile <b>c file</b> type the command as shown in fig. 3
+
+
+![Screenshot from 2024-02-24 20-09-44](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/bc245b64-9539-4484-9497-0256e5de04d1)
+<p align="centre">fig. 3</p>
 
