@@ -24,3 +24,12 @@
 [Click me to know the details of task-2](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task2.md) 
 
 </details>
+
+<details>
+<summary>Learning task-3</summary>
+<br>
+
+- The third online meeting took place on <b>22<sup>nd</sup> February, 2024, @ 6PM to 7PM.</b>
+<br/>  In this meeting, we were introduced to RISC-V simulator and how to use it through demonstration-videos. And the same we have to reproduce through practice. <br>
+
+[Click me to know the details of task-3](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task3.md)
