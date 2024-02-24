@@ -15,3 +15,7 @@ int main() {
 
 }
 ```
+
+1. open a file named sum1ton.c from the terminal as shown
+   
+![Screenshot from 2024-02-24 19-53-56](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/c9019342-f457-4e2b-b0fa-8f9e8aa3320a)
