@@ -39,6 +39,7 @@ int main() {
 ![Screenshot from 2024-02-24 20-20-49](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/dc5d2d36-6003-416f-852e-8ca092e29124)
 <p align="centre">fig. 5</p>
 <br>6. After running the compiled code result can be seen as shown in fig. 6
+
 ![Screenshot from 2024-02-24 20-23-41](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/9e036512-509f-4647-9361-8481a8fbf752)
 <p align="centre">fig. 6</p>
 
