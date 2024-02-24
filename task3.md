@@ -1,6 +1,6 @@
 # This task is to use RISC V GNU toolchain
 
-#### Lab1 : c program to compute sum of n numbers.
+#### Lab1 : Using C compiler, c program to compute sum of n numbers.
 
 ```
 #include<stdio.h>
@@ -43,3 +43,6 @@ int main() {
 ![Screenshot from 2024-02-24 20-23-41](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/9e036512-509f-4647-9361-8481a8fbf752)
 <p align="centre">fig. 6</p>
 
+#### Lab2 : Usage of RISC V simulator, c program to compute sum of n numbers.
+
+![Screenshot from 2024-02-24 20-43-28](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/03f7b941-9f8a-40db-b569-3c89a0e01641)
