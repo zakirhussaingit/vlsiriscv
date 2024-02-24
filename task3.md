@@ -16,6 +16,12 @@ int main() {
 }
 ```
 
-1. open a file named sum1ton.c from the terminal as shown
-   
-![Screenshot from 2024-02-24 19-53-56](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/c9019342-f457-4e2b-b0fa-8f9e8aa3320a)
+1. open a file named sum1ton.c from the terminal as shown in the fig. and type the above code into that file.
+
+   ![Screenshot from 2024-02-24 20-00-00](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/e276927d-b079-4679-8fd3-fea5d84292ce)
+
+
+2. Save and close the file. If you do <b>ls</b> in the terminal then you should see the file as shown in the fig.
+
+ ![Screenshot from 2024-02-24 19-57-41](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/503308a8-7771-4d8e-99b8-4fc66f5cbd47)
+
