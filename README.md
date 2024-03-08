@@ -33,3 +33,9 @@
 <br/>  In this meeting, we were introduced to RISC-V simulator and how to use it through demonstration-videos. And the same we have to reproduce through practice. <br>
 
 [Click me to know the details of task-3](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task3.md)
+</details>
+<details>
+<summary>Learning task-4</summary>
+<br>
+[Click me to know the details of task-4](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task4.md)
+</details>
