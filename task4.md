@@ -22,6 +22,11 @@
 <br>
 ![Screenshot from 2024-03-08 20-31-22](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/96f5cf51-8cef-4212-8951-6d75b785173e)
 <br> Fig. 7 It will generate <b>.vcd extension file</b>
+<br>
+![Screenshot from 2024-03-08 20-36-42](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/c0f8667f-44b2-4e8d-baf0-7ce952cd9749)
+<br> Fig. 8 Use <b>gtkwave</b> to open <b>Value Change Dump (vcd) file</b>
+<br/>
+
 
 
 
