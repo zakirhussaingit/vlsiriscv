@@ -14,6 +14,9 @@
 ![Screenshot from 2024-03-08 20-08-40](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/586db636-263b-4cf6-8e9a-e0ce1415bdc1)
 <br> Fig. 4 To compile verilog files using iverilog simulator<br>
 <br>
+![Screenshot from 2024-03-08 20-10-55](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7800d76b-e660-44c4-a1b3-8c03e4e35f64)<br>
+<br> Fig. 5 After successful compilation it will generate <b>a.out</b> file
+
 
 
 
