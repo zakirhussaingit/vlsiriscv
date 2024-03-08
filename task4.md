@@ -47,7 +47,8 @@
 <br> Fig. 12 Figure showing SUBTRACT operation<br>
 <br>
 <b> AND Operation </b>
-![Screenshot from 2024-03-08 22-29-28](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/cafe189a-64aa-4012-9140-bdf8a61d9e2a)
+![Screenshot-2](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7f29bb25-17a9-4e6a-aedc-174e79596f42)
+
 <br> Fig. 13 Figure showing AND operation<br>
 
 
