@@ -18,7 +18,7 @@
 <br> Fig. 5 After successful compilation it will generate <b>a.out</b> file<br>
 <br>
 ![Screenshot from 2024-03-08 20-25-31](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/6080b40e-b774-4490-a1d1-bdfc5637a8dc)
-<br> Fig. 6 To run the file just in terminal do as shown in fig.<br>
+<br> Fig. 6 To run the file just in terminal do as shown in figure<br>
 <br>
 ![Screenshot from 2024-03-08 20-31-22](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/96f5cf51-8cef-4212-8951-6d75b785173e)
 <br> Fig. 7 It will generate <b>.vcd extension file</b>
@@ -27,7 +27,15 @@
 <br> Fig. 8 Use <b>gtkwave</b> to open <b>Value Change Dump (vcd) file</b><br>
 <br>
 ![Screenshot from 2024-03-08 21-17-22](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/9e6e3275-5733-4149-93f6-447472e8d914)
-<br> Fig. 9 After opening the <b>.vcd file</b> it appears as shown in this figure 
+<br> Fig. 9a After opening the <b>.vcd file</b> it appears as shown in this figure<br>
+<br>
+![Screenshot from 2024-03-08 21-23-01](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/d003414b-9d20-4eea-ae93-f69f881c19fc)
+<br> Fig. 9b When top-module been selected the view is as shown in the figure<br>
+<br>
+![Screenshot from 2024-03-08 21-26-07](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/0f477974-551a-4c83-8bcd-05dbb360f85b)
+<br> Fig. 9c When instantiated module been selected the view is as shown in the figure<br>
+<br>
+
 
 
 
