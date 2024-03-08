@@ -20,6 +20,8 @@
 ![Screenshot from 2024-03-08 20-25-31](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/6080b40e-b774-4490-a1d1-bdfc5637a8dc)
 <br> Fig. 6 To run the file just in terminal do as shown in fig.<br>
 <br>
+![Screenshot from 2024-03-08 20-31-22](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/96f5cf51-8cef-4212-8951-6d75b785173e)
+<br> Fig. 7 It will generate <b>.vcd extension file</b>
 
 
 
