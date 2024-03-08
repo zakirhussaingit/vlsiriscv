@@ -1,0 +1,3 @@
+
+![Screenshot from 2024-03-08 19-34-50](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/0dc5868e-be5d-49d2-922d-d91965716fdf)
+<br>Fig. 1 All Instructions are harddcoded and through MEM[NPC] then been sent to IF_ID_IR Register
