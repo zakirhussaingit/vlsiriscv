@@ -36,7 +36,7 @@
 <br> Fig. 9c When instantiated module been selected the view is as shown in the figure<br>
 <br>
 ![Screenshot from 2024-03-08 21-40-27](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/41cee364-fa99-4bf5-a237-61a40bad0fe2)
-<br> Fig. 10 All required signals for anyalysis purposes can be added the wave shown in figure<br>
+<br> Fig. 10 All the required signals for the anyalysis purposes can be added the wave shown in figure<br>
 <br>
 
 
