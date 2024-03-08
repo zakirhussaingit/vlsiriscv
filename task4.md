@@ -15,7 +15,12 @@
 <br> Fig. 4 To compile verilog files using iverilog simulator<br>
 <br>
 ![Screenshot from 2024-03-08 20-10-55](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7800d76b-e660-44c4-a1b3-8c03e4e35f64)
-<br> Fig. 5 After successful compilation it will generate <b>a.out</b> file
+<br> Fig. 5 After successful compilation it will generate <b>a.out</b> file<br>
+<br>
+![Screenshot from 2024-03-08 20-25-31](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/6080b40e-b774-4490-a1d1-bdfc5637a8dc)
+<br> Fig. 6 To run the file just in terminal do as shown in fig.<br>
+<br>
+
 
 
 
