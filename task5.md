@@ -26,3 +26,8 @@
 
 ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/ac39fa6b-b5f8-4e8c-ad1d-ad0b04c3e021)
 <br>Fig. 4 Figure showing logical OR operation
+
+  <br><b>XOR operation</b><br>
+
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/24fb7ffd-f313-4e12-ae16-d2b7c09f55f3)
+<br>Fig. 4 Figure showing logical XOR operation
