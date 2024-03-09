@@ -21,3 +21,8 @@
     
   ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/4e5e718b-4747-4f6f-990c-6fec77c5822b)
     <br>Fig.3 Figure showing logical AND operation
+
+    <br><b>OR operation</b><br>
+
+  ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/ac39fa6b-b5f8-4e8c-ad1d-ad0b04c3e021)
+<br>Fig. 4 Figure showing logical OR operation
