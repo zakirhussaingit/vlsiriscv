@@ -56,6 +56,11 @@
 <br> Fig. 14 Figure showing OR operation<br>
 <br>
 
+<b> XOR Operation </b>
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/5d6d98aa-b147-452a-9d5e-625d33ba0305)
+<br> Fig. 15 Figure showing XOR operation<br>
+<br>
+
 
 
 
