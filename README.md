@@ -44,7 +44,7 @@
 
 
 <details>
-<summary>Learning task-4</summary>
+<summary>Learning task-5</summary>
 <br>
 
 [Click me to know the details of task-5](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task5.md)
