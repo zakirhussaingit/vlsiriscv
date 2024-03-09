@@ -50,6 +50,11 @@
 ![Screenshot-2](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7f29bb25-17a9-4e6a-aedc-174e79596f42)
 
 <br> Fig. 13 Figure showing AND operation<br>
+<br>
+<b> OR Operation </b>
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/ed10b848-8353-40e3-bbd4-e12d66a0789f)
+<br> Fig. 14 Figure showing OR operation<br>
+<br>
 
 
 
