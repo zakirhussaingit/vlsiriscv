@@ -46,7 +46,9 @@
 <br>
 <b> SUB Operation</b>
 ![Screenshot from 2024-03-08 22-29-28](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/aa401fae-6d1b-4172-8c2e-17b9b4d8c965)
-<br> Fig. 12 Figure showing SUBTRACT operation<br>
+<br> Fig. 12a Figure showing SUBTRACT operation<br>
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/87357607-3ca1-4ce9-a641-f22b44a9a038)
+<br> Fig. 12b Figure showing SUBTRACT operation with Instruction code<br>
 <br>
 <b> AND Operation </b>
 ![Screenshot-2](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7f29bb25-17a9-4e6a-aedc-174e79596f42)
