@@ -41,13 +41,13 @@
 <b> ADD Operation</b>
 ![Screenshot from 2024-03-08 21-58-22](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/19650184-5edf-4cc7-83fa-b1d4f3227931)
 <br> Fig. 11a Figure showing ADDITION operation<br>
-![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/cb705808-d306-43f0-a895-62c53399b91c)
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/c72afd3c-00f4-4bfa-97ed-c6f987e70fe8)
 <br> Fig. 11b Figure showing ADDITION operation with Instruction code<br>
 <br>
 <b> SUB Operation</b>
 ![Screenshot from 2024-03-08 22-29-28](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/aa401fae-6d1b-4172-8c2e-17b9b4d8c965)
 <br> Fig. 12a Figure showing SUBTRACT operation<br>
-![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/87357607-3ca1-4ce9-a641-f22b44a9a038)
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/49433654-87f4-4ddf-bbc4-1e41c2bcc550)
 <br> Fig. 12b Figure showing SUBTRACT operation with Instruction code<br>
 <br>
 <b> AND Operation </b>
