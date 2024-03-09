@@ -1,5 +1,13 @@
 #### This is the last task which is to carry out GLS = GateLevel Simulation
 
+<p align="justify>Before we carry out GLS we must have performed synthesis and successfully must have obtained gatelevel netlist of the given design. The following will be the fewer 
+steps to perform the synthesis to obtain the gatelevel netlist.</p>
+  <br>
+  ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7842e457-3eec-40a0-bea4-7f37ae029760)
+
+<br>
+<p align="justify>The GLS is done on obtained netlist. The following results are obtained performing simulation on obtained gatelevel netlist </p>
+
 <b>ADD operation</b>
 ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/03f88eda-6912-45b7-9430-ce62f15d8720)
 <br>Fig.1 Figure showing ADDITION operation
