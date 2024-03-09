@@ -1,8 +1,8 @@
 #### This is the last task which is to carry out GLS = GateLevel Simulation
 
 <p align="justify>Before we carry out GLS we must have performed synthesis and successfully must have obtained gatelevel netlist of the given design. The following will be the fewer 
-steps to perform the synthesis to obtain the gatelevel netlist.</p>
-  <br>
+steps to perform the synthesis to obtain the gatelevel netlist.</p><br>
+  
   ![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/7842e457-3eec-40a0-bea4-7f37ae029760)
 
 <br>
