@@ -41,3 +41,12 @@
 [Click me to know the details of task-4](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task4.md)
   
 </details>
+
+
+<details>
+<summary>Learning task-4</summary>
+<br>
+
+[Click me to know the details of task-5](https://github.com/zakirhussaingit/vlsiriscv/blob/main/task5.md)
+
+</details>
