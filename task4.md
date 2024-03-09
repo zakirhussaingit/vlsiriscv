@@ -41,7 +41,7 @@
 <b> ADD Operation</b>
 ![Screenshot from 2024-03-08 21-58-22](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/19650184-5edf-4cc7-83fa-b1d4f3227931)
 <br> Fig. 11a Figure showing ADDITION operation<br>
-![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/8cbdb6e6-4ef6-4b35-aba2-53f0f95d92f3)
+![image](https://github.com/zakirhussaingit/vlsiriscv/assets/159747370/cb705808-d306-43f0-a895-62c53399b91c)
 <br> Fig. 11b Figure showing ADDITION operation with Instruction code<br>
 <br>
 <b> SUB Operation</b>
